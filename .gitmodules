@@ -1,0 +1,3 @@
+[submodule "clones/leaflet-gpx"]
+	path = clones/leaflet-gpx
+	url = https://github.com/mpetazzoni/leaflet-gpx
